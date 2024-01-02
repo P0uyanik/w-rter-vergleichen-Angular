@@ -1,0 +1,16 @@
+.mainArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 890px;
+    background-color: blue;
+}
+.pennding {
+    color: gray
+}
+.correct {
+    color: green;
+}
+.incorrect {
+    color: red;
+}
